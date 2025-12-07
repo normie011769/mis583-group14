@@ -1,5 +1,4 @@
-# mis583-group14
-for Deep Learning class
+# mis583-group14 for Deep Learning class
 
 A Comparative Study of CNN and Transformer on Calligraphy Style Recognition with Explainability Analysis
 
